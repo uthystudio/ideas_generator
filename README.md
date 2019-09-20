@@ -1,5 +1,7 @@
-# Untitled33
+# Simple ideas for project generator
 
+DEMO: https://quicklyit.000webhostapp.com
+_________
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
 ## Development server
